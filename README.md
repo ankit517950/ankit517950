@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit517950" alt="ankit517950" /></a> </p>
-
 - 💬 Ask me about **Java, Spring Boot, Spring MVC, Spring, Rest API, Spring Data JPA, JSP, Servlet, MySQL, Agile, HTML, CSS, and JavaScript**
 
 - 📫 How to reach me **ankitmy2019@gmail.com**
